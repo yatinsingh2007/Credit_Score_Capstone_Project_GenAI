@@ -3,3 +3,4 @@ scikit-learn
 kagglehub
 matplotlib
 seaborn
+streamlit
